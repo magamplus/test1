@@ -2,8 +2,9 @@ do
 
 function run(msg, matches)
   return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/6jdjGg
-  GNU GPL v2 license.]]
+  amir/amir/abas
+  version:1.1
+  باتشکر از یاگوپ
 end
 
 return {
