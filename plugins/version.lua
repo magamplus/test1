@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'Telegram Bot '.. VERSION .. [[ 
+  return 'Telemagma Bot '.. VERSION .. [[ 
   amir/amir/abas
   version:1.1
   باتشکر از یاگوپ
